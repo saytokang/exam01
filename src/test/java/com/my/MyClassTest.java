@@ -17,4 +17,11 @@ public class MyClassTest {
         System.out.print("한글로...");
         assertTrue(true);
     }
+    
+    @Test
+    public void test2() {
+        assertTrue(true);
+    }
+    
+    
 }
