@@ -14,6 +14,7 @@ public class MyClassTest {
     @Test
     public void test1() {
         System.out.print("한글로.");
+        System.out.print("한글로...");
         assertTrue(true);
     }
 }
