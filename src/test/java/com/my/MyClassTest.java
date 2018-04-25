@@ -20,7 +20,6 @@ public class MyClassTest {
     
     @Test
     public void test2() {
-    	System.out.println("작업");
         assertTrue(true);
     }
     
