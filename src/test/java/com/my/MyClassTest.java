@@ -34,8 +34,6 @@ public class MyClassTest {
     @Test
     public void test3() {
     	System.out.println("작업");
-    	System.out.println("작업");
-    	System.out.println("작업");
         assertTrue(true);
     }
     

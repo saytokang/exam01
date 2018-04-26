@@ -20,6 +20,14 @@ public class MyTest {
 		System.out.println("작업했음");
 		assertTrue(true);
 	}
-
+	
+	/**
+	 * 신규 테스트 케이스
+	 */
+	@Test
+	public void tes3() {
+		
+		assertTrue(true);
+	}
 
 }
