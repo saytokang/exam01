@@ -26,8 +26,8 @@ public class MyClassTest {
     @Test
     public void test2() {
        System.out.println("1");
-       System.out.println("1");
-       System.out.println("1");
+       System.out.println("2");
+       System.out.println("3");
        assertTrue(true);
     }
     
