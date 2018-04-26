@@ -1,8 +1,8 @@
 package com.my;
 
-import org.junit.Test;
+import static org.junit.Assert.assertTrue;
 
-import static org.junit.Assert.*;
+import org.junit.Test;
 
 /**
  * 테스트 주석. 
@@ -25,14 +25,17 @@ public class MyClassTest {
     
     @Test
     public void test2() {
-        assertTrue(true);
        System.out.println("1");
        System.out.println("1");
        System.out.println("1");
+       assertTrue(true);
     }
     
     @Test
-    public void test2() {
+    public void test3() {
+    	System.out.println("작업");
+    	System.out.println("작업");
+    	System.out.println("작업");
         assertTrue(true);
     }
     
