@@ -17,6 +17,7 @@ public class MyTest {
 	
 	@Test
 	public void tes2() {
+		System.out.println("작업했음");
 		assertTrue(true);
 	}
 
